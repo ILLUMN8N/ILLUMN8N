@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ILLUMN8N
 - 👀 I’m interested in ... learning java to get into minecraft modding
-- 🌱 I’m currently learning ... how to rub 2 brain cells together and create code
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me ... dont
 
